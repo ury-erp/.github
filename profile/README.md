@@ -1,11 +1,11 @@
-URY is a innovative restaurant management system that is build for and on the world's best opensource ERP, ERPNext. It is engineered to bring you an unparalleled experience in restaurant management.
+URY is an innovative restaurant management system built on top of ERPNext, the world's leading open source ERP. Engineered specifically for the food service industry, URY provides a robust and comprehensive suite of tools to seamlessly manage all aspects of your restaurant.
 
-With URY, you gain access to a robust and comprehensive suite of tools designed specifically for the food service industry. It being on ERPNext means you benefit from the reliability, scalability, and efficiency that come with this globally recognized ERP that is now used by mission critical organisation and unprecedented scale.
+By leveraging the power of ERPNext, URY ensures reliability, scalability, and efficiency. This allows restaurants to optimize operations, track finances, manage inventory and supply chains, schedule employees, and more - all within a single, integrated platform.
 
-URY empowers you to seamlessly manage every aspect of your restaurant, from inventory and supply chain management to financial tracking and employee scheduling. By harnessing the power of ERPNext, URY ensures that your restaurant runs smoothly, optimizes resource utilization, and ultimately enhances your bottom line.
+With URY, restaurants gain actionable insights to make data-driven decisions that boost productivity, profitability, and growth. The system is designed to enhance resource utilization, streamline processes, and elevate the customer experience.
 
-Discover the future of restaurant management with URY, where the best of ERP technology meets the unique needs of the hospitality industry. Join us in elevating your restaurant's performance and delivering exceptional experiences to your customers.
+URY represents the future of restaurant management, where best-in-class ERP technology meets the evolving needs of the hospitality industry. Join leading restaurants worldwide that trust URY to efficiently run their operations and deliver exceptional dining experiences.
 
-Visit Ury Website - https://ury.app/
+URY is developed by Tridz Technologies Pvt Ltd, specialists in ERPNext-based solutions. Visit their website to learn more: https://tridz.com/
 
-Ury is built by Tridz Technologies Pvt Ltd. Visit - https://tridz.com/
+Try URY today to maximize the performance of your restaurant: https://ury.app/ or getury@tridz.com
